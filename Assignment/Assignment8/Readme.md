@@ -1,6 +1,6 @@
 **Assigned Date:2022/01/16** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Due Date:2022/01/17**
 # Assignment 8
-<img src="https://raw.githubusercontent.com/Sagun-Dev/Java/main/Assignment/Assignment8/img/assignmentFlag.png" width = 100 height = 100/>
+<img src="https://raw.githubusercontent.com/Sagun-Dev/Java/main/Assignment/Assignment8/img/assignmentFlag.png" width = 100 height = 150/>
 
 ## Displaying graphics in Swing/AWT:
 

@@ -33,19 +33,19 @@ The object used for executing a static SQL statementand returning the results it
 </tr>
 <tr>
 <td>Create Record</td>
-<td>INSERT INTO students (`column1`,`column2`,`column3`,`column4`)<br/> VALUES('value1','value2','value3','value4')</td>
+<td>INSERT INTO students (`column1`,`column2`,`column3`,`column4`)<br/> VALUES('value1','value2','value3','value4');</td>
 </tr>
 <tr>
 <td>Read Data</td>
-<td>SELECT * FROM table_name</td>
+<td>SELECT * FROM table_name;</td>
 </tr>
 <tr>
 <td>Update Table</td>
-<td>UPDATE table_name SET column = 'value' where column='value'</td>
+<td>UPDATE table_name SET column = 'value' where column='value';</td>
 </tr>
 <tr>
 <td>Delete Data</td>
-<td>DELETE FROM table_name WHERE column = 'value'</td>
+<td>DELETE FROM table_name WHERE column = 'value';</td>
 </tr>
 </table>
 
